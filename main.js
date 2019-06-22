@@ -1,3 +1,5 @@
+//use p5.js library, a library that includes some drawing functionality
+
 let framerate = 100;
 
 let radius = 30;
