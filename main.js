@@ -37,9 +37,7 @@ function Gameplay() {
     text(Math.floor(this.points), width-50, 50); //show the points
     if (!bird.alive) {
       text("Game over!", width-140, 100); //shown after death
-    }
-    
-    
+    }   
   } 
 } 
 
